@@ -1,0 +1,11 @@
+{
+    "Server" : {
+        "host" : "4000"
+    },
+    "db":{
+        "host" : "localhost",
+        "user" : "root",
+        "passwird": "0000",
+        "database": "testWork"
+    }
+}
