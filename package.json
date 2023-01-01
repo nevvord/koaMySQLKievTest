@@ -9,7 +9,7 @@
   "author": "Vitalii Lazunchenko (Nevvord)",
   "license": "ISC",
   "dependencies": {
-    "config": "^3.2.3",
+    "config": "^3.3.8",
     "koa": "^2.8.2",
     "koa-body": "^4.1.1",
     "koa-router": "^7.4.0",
